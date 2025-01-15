@@ -11,10 +11,11 @@ To create an executable file from the above code:
 
 Use Electron:
 
-Install Node.js if you haven't already.
+Install Node.js
 Install Electron: npm install electron --save-dev.
 Create a main.js file to launch the index.html.
 Package it using tools like electron-packager or electron-builder.
+
 Run Locally:
 
 Save the HTML code as index.html.
